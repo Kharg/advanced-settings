@@ -89,8 +89,7 @@ define('advanced-settings:views/admin/settings', ['views/settings/record/edit'],
             },
             {
                 "rows": [
-                    [{"name": "authMaxFailedAttemptNumber"}/*, {"name": "authAnotherUserDisabled"}*/],
-                    //[{"name": "authLogDisabled"}, {"name": "authApiUserLogDisabled"}],
+                    [{"name": "authMaxFailedAttemptNumber"}],
                 ],
                 "style": "default",
                 "label": "Authentication"

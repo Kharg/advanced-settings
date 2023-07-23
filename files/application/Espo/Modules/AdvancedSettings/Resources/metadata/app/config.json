@@ -51,15 +51,6 @@
         "authMaxFailedAttemptNumber": {
             "level": "default"
         },
-        "authAnotherUserDisabled": {
-            "level": "default"
-        },
-        "authLogDisabled": {
-            "level": "default"
-        },
-        "authApiUserLogDisabled": {
-            "level": "default"
-        },
         "eventAssignedUserIsAttendeeDisabled": {
             "level": "default"
         },

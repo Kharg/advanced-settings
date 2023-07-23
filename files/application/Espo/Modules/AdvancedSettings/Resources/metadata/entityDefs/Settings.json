@@ -88,21 +88,6 @@
         "default": 10,
         "tooltip": true
     },
-    "authAnotherUserDisabled": {
-        "type": "bool",
-        "default": false,
-        "tooltip": true
-    },
-    "authLogDisabled": {
-        "type": "bool",
-        "default": false,
-        "tooltip": true
-    },
-    "authApiUserLogDisabled": {
-        "type": "bool",
-        "default": false,
-        "tooltip": true
-    },
     "eventAssignedUserIsAttendeeDisabled": {
         "type": "bool",
         "default": false,
