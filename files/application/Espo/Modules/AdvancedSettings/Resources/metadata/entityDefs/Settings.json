@@ -1,0 +1,192 @@
+{
+    "fields": {
+    "listPagination": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "notificationSoundsDisabled": {
+        "type": "bool",
+        "default": true,
+        "tooltip": true
+    },
+    "adminPanelIframeDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "activitiesCreateButtonMaxCount": {
+        "type": "int",
+        "default": 3,
+        "min": 0,
+        "max": 4,
+        "tooltip": true
+    },
+    "thumbImageCacheDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "recordListMaxSizeLimit": {
+        "type": "int",
+        "default": 200,
+        "tooltip": true
+    },
+    "globalSearchMaxSize": {
+        "type": "int",
+        "default": 10,
+        "tooltip": true
+    },
+    "maxSelectTextAttributeLengthForList": {
+        "type": "int",
+        "default": 10000,
+        "tooltip": true
+    },
+    "massActionIdleCountThreshold": {
+        "type": "int",
+        "default": 100,
+        "tooltip": true
+    },
+    "exportIdleCountThreshold": {
+        "type": "int",
+        "default": 1000,
+        "tooltip": true
+    },
+    "emailReminderPortionSize": {
+        "type": "int",
+        "default": 10,
+        "tooltip": true
+    },
+    "notificationsMaxSize": {
+        "type": "int",
+        "default": 5,
+        "tooltip": true
+    },
+    "notificationsCheckInterval": {
+        "type": "int",
+        "default": 10,
+        "tooltip": true
+    },
+    "popupNotificationsCheckInterval": {
+        "type": "int",
+        "default": 15,
+        "tooltip": true
+    },
+    "streamEmailWithContentEntityTypeList": {
+        "type": "multiEnum",
+        "default": ["Case"],
+        "tooltip": true,
+        "view": "views/admin/field-manager/fields/entity-list"
+    },
+    "recordFollowersLoadLimit": {
+        "type": "int",
+        "default": 6,
+        "tooltip": true
+    },
+    "authMaxFailedAttemptNumber": {
+        "type": "int",
+        "default": 10,
+        "tooltip": true
+    },
+    "authAnotherUserDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "authLogDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "authApiUserLogDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "eventAssignedUserIsAttendeeDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "eventInvitationForceSystemSmtp": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "inlineAttachmentUploadMaxSize": {
+        "type": "int",
+        "default": 20,
+        "tooltip": true
+    },
+    "textFilterContainsMinLength": {
+        "type": "int",
+        "default": 4,
+        "tooltip": true
+    },
+    "kanbanMaxOrderNumber": {
+        "type": "int",
+        "default": 50,
+        "tooltip": true
+    },
+    "kanbanMinColumnWidth": {
+        "type": "int",
+        "default": 220,
+        "tooltip": true
+    },
+    "massEmailMaxAttemptCount": {
+        "type": "int",
+        "default": 3,
+        "tooltip": true
+    },
+    "massEmailSiteUrl": {
+        "type": "url",
+        "tooltip": true
+    },
+    "cleanupOrphanAttachments": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "cleanupSubscribers": {
+        "type": "bool",
+        "default": true,
+        "tooltip": true
+    },
+    "emailKeepParentTeamsEntityList": {
+        "type": "multiEnum",
+        "default": ["Case"],
+        "tooltip": true,
+        "view": "views/admin/field-manager/fields/entity-list"
+    },
+    "emailAutoReplyLimit": {
+        "type": "int",
+        "default": 5,
+        "tooltip": true
+    },
+    "emailFoldersDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "emailRecipientAddressMaxCount": {
+        "type": "int",
+        "default": 100,
+        "tooltip": true
+    },
+    "emailTemplateHtmlizerDisabled": {
+        "type": "bool",
+        "default": false,
+        "tooltip": true
+    },
+    "ajaxTimeout": {
+        "type": "int",
+        "default": 60000,
+        "tooltip": true
+    },
+    "applicationDescription": {
+        "type": "varchar",
+        "default": "EspoCRM - Open Source CRM application",
+        "tooltip": true
+    }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Advanced Settings",
+    "version": "1.0.0",
+    "type": "extension",
+    "acceptableVersions": [
+        ">=7.5.0"
+    ],
+    "releaseDate": "23/07/2023",
+    "author": "Andrew Fontana",
+    "description": "Toggle advanced settings directly from the UI."
+}

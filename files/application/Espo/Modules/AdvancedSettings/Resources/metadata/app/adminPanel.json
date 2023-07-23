@@ -1,0 +1,20 @@
+{
+    "extSettings": {
+        "label": "Extensions Settings",
+        "itemList": [
+            "__APPEND__",
+            {
+                "url": "#Admin/AdvancedSettings",
+                "iconClass": "fas fa-cogs",
+                "keywords": [
+                    "advanced",
+                    "settings"
+                ],
+                "label": "AdvancedSettingsTitle",
+                "description": "AdvancedSettingsDescription",
+            	"recordView": "advanced-settings:views/admin/settings"
+            }
+        ],
+        "order": 110
+    }
+}

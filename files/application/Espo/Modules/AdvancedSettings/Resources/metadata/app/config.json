@@ -1,0 +1,115 @@
+{
+    "params": {
+        "listPagination": {
+            "level": "default"
+        },
+        "notificationSoundsDisabled": {
+            "level": "default"
+        },
+        "adminPanelIframeDisabled": {
+            "level": "default"
+        },
+        "activitiesCreateButtonMaxCount": {
+            "level": "default"
+        },
+        "thumbImageCacheDisabled": {
+            "level": "default"
+        },
+        "recordListMaxSizeLimit": {
+            "level": "default"
+        },
+        "globalSearchMaxSize": {
+            "level": "default"
+        },
+        "maxSelectTextAttributeLengthForList": {
+            "level": "default"
+        },
+        "massActionIdleCountThreshold": {
+            "level": "default"
+        },
+        "exportIdleCountThreshold": {
+            "level": "default"
+        },
+        "emailReminderPortionSize": {
+            "level": "default"
+        },
+        "notificationsMaxSize": {
+            "level": "default"
+        },
+        "notificationsCheckInterval": {
+            "level": "default"
+        },
+        "popupNotificationsCheckInterval": {
+            "level": "default"
+        },
+        "streamEmailWithContentEntityTypeList": {
+            "level": "default"
+        },
+        "recordFollowersLoadLimit": {
+            "level": "default"
+        },
+        "authMaxFailedAttemptNumber": {
+            "level": "default"
+        },
+        "authAnotherUserDisabled": {
+            "level": "default"
+        },
+        "authLogDisabled": {
+            "level": "default"
+        },
+        "authApiUserLogDisabled": {
+            "level": "default"
+        },
+        "eventAssignedUserIsAttendeeDisabled": {
+            "level": "default"
+        },
+        "eventInvitationForceSystemSmtp": {
+            "level": "default"
+        },
+        "inlineAttachmentUploadMaxSize": {
+            "level": "default"
+        },
+        "textFilterContainsMinLength": {
+            "level": "default"
+        },
+        "kanbanMaxOrderNumber": {
+            "level": "default"
+        },
+        "kanbanMinColumnWidth": {
+            "level": "default"
+        },
+        "massEmailMaxAttemptCount": {
+            "level": "default"
+        },
+        "massEmailSiteUrl": {
+            "level": "default"
+        },
+        "cleanupOrphanAttachments": {
+            "level": "default"
+        },
+        "cleanupSubscribers": {
+            "level": "default"
+        },
+        "emailKeepParentTeamsEntityList": {
+            "level": "default"
+        },
+        "emailAutoReplyLimit": {
+            "level": "default"
+        },
+        "emailFoldersDisabled": {
+            "level": "default"
+        },
+        "emailRecipientAddressMaxCount": {
+            "level": "default"
+        },
+        "emailTemplateHtmlizerDisabled": {
+            "level": "default"
+        },
+        "ajaxTimeout": {
+            "level": "default"
+        },
+        "applicationDescription": {
+            "level": "default"
+        }
+    }
+}
