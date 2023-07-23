@@ -29,9 +29,6 @@ This Extension allows to access EspoCRM advanced settings directly from the UI:
 - Stream Email With Content Entity Type List
 - Record Followers Load Limit
 - Auth Max Failed Attempt Number
-- Auth Another User Disabled
-- Auth Log Disabled
-- Auth Api User Log Disabled
 - Event Assigned User Is Attendee Disabled
 - Event Invitation Force System Smtp
 - Inline Attachment Upload Max Size
