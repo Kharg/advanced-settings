@@ -36,7 +36,7 @@
         "applicationDescription": "Application Description"   
     },
     "tooltips": {
-        "listPagination": "Uses List Pagination instead of show more.",
+        "listPagination": "Uses List Pagination instead of show more. **(please note that this is an experimental and not officially supported feature)**",
         "notificationSoundsDisabled": "Disables Notification sounds.",
         "adminPanelIframeDisabled": "Disables the right iframe-panel on the administration page.",
         "activitiesCreateButtonMaxCount": "A max number of create buttons to display on the Activities page.",
