@@ -12,7 +12,7 @@ This Extension allows to access EspoCRM advanced settings directly from the UI.
 
 This Extension allows to access EspoCRM advanced settings directly from the UI:
 
-- List Pagination
+- List Pagination (this is an experimental and not an officially supported feature)
 - Notification Sounds Disabled
 - Admin Panel iFrame Disabled
 - Activities Create Button Max Count
