@@ -18,7 +18,7 @@
         "recordFollowersLoadLimit": "Record Followers Load Limit",
         "authMaxFailedAttemptNumber": "Auth Max Failed Attempt Number",
         "eventAssignedUserIsAttendeeDisabled": "Event Assigned User Is Attendee Disabled",
-        "eventInvitationForceSystemSmtp": "Event Invitation Force System Smtp",
+        "eventInvitationForceSystemSmtp": "Event Invitation Force System SMTP",
         "inlineAttachmentUploadMaxSize": "Inline Attachment Upload Max Size",
         "textFilterContainsMinLength": "Text Filter Contains Min Length",
         "kanbanMaxOrderNumber": "Kanban Max Order Number",
